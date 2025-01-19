@@ -11,6 +11,7 @@ function isSubseq(s,t){
     return p1===s.length
 }
 
+console.log(isSubseq('abc','ahbgdc'))
 // Example 1:
 
 // Input: s = "abc", t = "ahbgdc"
