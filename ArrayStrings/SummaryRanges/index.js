@@ -1,7 +1,6 @@
 var summaryRanges = function(nums) {
     if(nums.length===0) return []
     let i=0
-    
     let result=[]
     while(i<nums.length){
         let start=nums[i]

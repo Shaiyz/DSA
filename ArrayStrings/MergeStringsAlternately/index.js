@@ -11,6 +11,7 @@ function MergeStringsAlternately(word1, word2){
 }
 
 console.log(MergeStringsAlternately("abceol","pqrio"))
+// Leetcode1768
 // Explanation: The merged string will be merged as so:
 // word1:  a   b   c
 // word2:    p   q   r

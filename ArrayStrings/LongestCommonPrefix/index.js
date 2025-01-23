@@ -13,7 +13,7 @@ function longestCommonPrefix(s){
 }
 
 console.log(longestCommonPrefix(["fl","flow","flight"]))
-
+// Leetcode14
 // Example 1:
 
 // Input: strs = ["flower","flow","flight"]
